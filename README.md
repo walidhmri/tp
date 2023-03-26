@@ -1,4 +1,5 @@
 # Projet de tp exo 9 vers 14 / Oualid Hamri G12
+Ajoute <stdio.h>
 
 <ol>
   <li>exo 9</li>
