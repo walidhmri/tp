@@ -34,8 +34,7 @@ int main()
     procedure2();
 }</code>
   <li>exo 11</li>
-     <code>#include <stdio.h>
-
+     <code> #include <stdio.h>
 void procedure1()
 {
     int localVar = 5;
@@ -51,18 +50,14 @@ void procedure3(int arg)
     int localVar = 3;
     printf("\n%d arg= %d", localVar, arg);
 }
-
 int main()
-
 {
     procedure3(5);
-}</code>
+} </code>
   <li>exo 12</li>
        <code>
-
 #include <stdio.h>
 int count = 0;
-
 void incount()
 {
     count = count + 1;
@@ -91,7 +86,6 @@ void procedure4()
     printf("local1= %d\n", localVar);
     pocedure5();
 }
-
 int main()
 {
     procedure4();
@@ -99,7 +93,6 @@ int main()
            <li>exo 14</li>
            <code>#include <stdio.h>
 int globarVar2 = 15;
-
 void procedure6(int arg2)
 {
     int localVar2;
