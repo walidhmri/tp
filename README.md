@@ -1,5 +1,5 @@
-# Projet de tp 
-exo 1 a 14
+# Projet de tp exo 9 vers 14 / Oualid Hamri G12
+
 <ol>
   <li>exo 9</li>
  <code> #include <stdio.h>
