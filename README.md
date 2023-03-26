@@ -16,8 +16,7 @@ int main()
     printf("\n%d", globalVar);
    }</code>
   <li>exo 10</li>
-   <code>#include <stdio.h>
-
+   <code> #include <stdio.h>
 void procedure1()
 {
     int localVar = 5;
